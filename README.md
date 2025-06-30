@@ -1,47 +1,48 @@
-💘 Wantam Dating App
-Wantam Dating is a modern, swipe-style dating web app that lets users create profiles, match with others, and chat in a vibrant, neon-lit disco-themed UI.
+# Wantam Dating App
 
-🎬 Demo
-🎥 A short video presentation and walkthrough is provided instead of screenshots.
+**Wantam Dating** is a modern, swipe-style dating web app that lets users create profiles, match with others, and chat in a vibrant, neon-lit disco-themed UI.
 
-✨ Features
-🔐 User Registration with SMS Verification
+## Demo
 
-👤 Profile Creation with bio, hobbies, and gender
+A short video walkthrough is included to demonstrate the app's functionality and features.
+https://drive.google.com/file/d/1NgoHz_0nEZ5p7EeiBWPR2muqtSeZF6tr/view?usp=drive_link
 
-💘 Swipe to Match (Tinder-style interface)
+## Features
 
-💬 Real-Time Chat between matches
+* User Registration with simulated SMS verification
+* Profile Creation with name, gender, bio, and hobbies
+* Swipe to Match – Tinder-style left/right swipe interaction
+* Real-Time Chat between matched users
+* Disco-Themed UI with animations and live neon wallpaper
+* Persistent Data using `localStorage`
+* Secure Login with password rules and optional "Remember Me" auto-login
 
-🌈 Animated Disco Theme and live wallpaper
+## Tech Stack
 
-🧠 Persistent Data using localStorage
+* HTML5 – Structure
+* CSS3 – Styling and Animations (including `@keyframes`, `transitions`)
+* JavaScript (Vanilla) – App logic and interactivity
+* (Optional) `json-server` – For local API simulation (not required)
 
-✅ Secure Login with auto-login option and password rules
+## Getting Started
 
-🛠️ Tech Stack
-HTML5 + CSS3 + JavaScript (Vanilla)
+### 1. Clone the Repository
 
-Animations using CSS (@keyframes, transitions)
-
-Optional JSON server for mock backend (if enabled)
-
-🚀 Getting Started
-1. Clone the Repository
-bash
-Copy
-Edit
+```bash
 git clone git@github.com:kalebu1960/wantam-dating-app.git
-2. Open the Project in VS Code
-You already have it open, so skip any navigation steps.
+```
 
-3. Run the App
-Open index.html in your browser — no build step needed!
+### 2. Open the Project in VS Code
 
-📁 Project Structure
-css
-Copy
-Edit
+Open the project folder using your preferred code editor.
+
+### 3. Run the App
+
+Open `index.html` in your browser — no build step required.
+
+## Project Structure
+
+```bash
 wantam-dating-app/
 ├── index.html
 ├── css/
@@ -49,7 +50,18 @@ wantam-dating-app/
 ├── src/
 │   └── index.js
 ├── assets/
-│   └── (images, disco background, logo)
+│   ├── images/            # Profile pics and logos
+│   ├── disco_background.jpg
+│   └── sounds/
 └── README.md
-🙋🏽‍♂️ Author
-Caleb Muindi — @kalebu1960
+```
+
+## Author
+
+**Caleb Muindi**
+GitHub: [@kalebu1960](https://github.com/kalebu1960)
+Email: [muindicaleb001@gmail.com](mailto:muindicaleb001@gmail.com)
+
+---
+
+*"Pamoja tuangamize baridi."*
