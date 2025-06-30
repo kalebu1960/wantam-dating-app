@@ -6,6 +6,9 @@
 
 A short video walkthrough is included to demonstrate the app's functionality and features.
 https://drive.google.com/file/d/1NgoHz_0nEZ5p7EeiBWPR2muqtSeZF6tr/view?usp=drive_link
+## Live Site
+
+[Click here to view the live app on GitHub Pages](https://kalebu1960.github.io/wantam-dating-app/)
 
 ## Features
 
@@ -65,3 +68,7 @@ Email: [muindicaleb001@gmail.com](mailto:muindicaleb001@gmail.com)
 ---
 
 *"Pamoja tuangamize baridi."*
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
